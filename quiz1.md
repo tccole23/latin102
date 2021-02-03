@@ -10,6 +10,7 @@ Identify the gender, case and number, and gender of each noun. If there are mult
 1. ad uxorem
 
 Part 2: recognizing verbs
+
 For each of the following verbs,
 identify the tense, voice, mood, person, and number.
 if the form is singular, convert to plural; if the form is plural, convert to singular
@@ -23,6 +24,7 @@ if the form is singular, convert to plural; if the form is plural, convert to si
 1. misit
 
 Part 3: Latin composition
+
 Translate (only) the italicized verb forms into Latin. E.g., if you were given “Hercules saw Deianira,” you could translate saw with vidit.
 
 1. Centaurs are being killed by Hercules. (Use the present tense)

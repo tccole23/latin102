@@ -30,7 +30,7 @@ Translate (only) the italicized verb forms into Latin. E.g., if you were given â
 1. Centaurs are being killed by Hercules. (Use the present tense) - interficiuntur
 1. Centaurs were being killed by Hercules. (Use the perfect tense) - interfecti sunt
 1. Centaurs were killed by Hercules. (Use the perfect tense) - interfecerunt
-1. When Hercules killed the Centaurs, he carried off Deianira. (Emphasize the circumstance, not the timing, of what Hercules did.) - 
+1. When Hercules killed the Centaurs, he carried off Deianira. (Emphasize the circumstance, not the timing, of what Hercules did.) - interfecerit
 1. At the moment when Deianira saw Herculesâ€™ garment burst into flames, she realized the Centaur had lied to her. - vidit
 1. Hercules led Deianira in marriage (i.e., he married her). - duxit
 1. Hercules repeatedly asked Eurytus for permission to marry Iole. - rogavit

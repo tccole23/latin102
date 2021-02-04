@@ -17,7 +17,7 @@ if the form is singular, convert to plural; if the form is plural, convert to si
 
 1. petivisset - pluperfect, active, subjunctive, 3rd, singular - petivissent
 1. necauit - perfect, active, indicative, 3rd, singular - necaverunt
-1. necari - 
+1. necari - present, passive, infinitive
 1. rogaretur - imperfect, passive, subjunctive, 3rd, singular - rogarentur
 1. coepit - perfect, active, indicative, 3rd, singular - coeperunt
 1. interfecisset -pluperfect, active, subjunctive, 3rd, singular - interfecissent

@@ -15,13 +15,13 @@ For each of the following verbs,
 identify the tense, voice, mood, person, and number.
 if the form is singular, convert to plural; if the form is plural, convert to singular
 
-1. petivisset
-1. necauit
-1. necari
-1. rogaretur
-1. coepit
-1. interfecisset
-1. misit
+1. petivisset - pluperfect, active, subjunctive, 3rd, singular - petivissent
+1. necauit - perfect, active, indicative, 3rd, singular - necaverunt
+1. necari - 
+1. rogaretur - imperfect, passive, subjunctive, 3rd, singular - rogarentur
+1. coepit - perfect, active, indicative, 3rd, singular - coeperunt
+1. interfecisset -pluperfect, active, subjunctive, 3rd, singular - interfecissent
+1. misit - perfect, active, indicative, 3rd, singular - miserunt
 
 Part 3: Latin composition
 

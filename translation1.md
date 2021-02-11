@@ -43,10 +43,11 @@ B. Grammatical questions
 Write a dictionary entry (nominative singular, genitive singular, gender) for Dexamenum, then identify the form Dexamenum. - Dexamenus, Dexameni, masculine - Accusative singular
 Write a dictionary entry (nominative singular, genitive singular, gender) for Deianiram, then identify the form Deianiram. - Deianira, Deianirae, feminine - Accusative singular
 Identify the form abesset, and explain why it is this tense and mood. - 
-Identify the form uenisset, and explain why it is this tense and mood.
-Identify the form pollicitus est. What dictionary form would you look under to find this verb?
-Identify the form of the noun-adjective phrase tempore certo, and explain why it is in this case.
+Identify the form uenisset, and explain why it is this tense and mood. - 
+Identify the form pollicitus est. What dictionary form would you look under to find this verb? - 
+Identify the form of the noun-adjective phrase tempore certo, and explain why it is in this case. - 
 
 C. Translation
 Please translate the passgae into idiomatic English.
+
 When Hercules had come to King Dexamenus and he 

@@ -55,4 +55,4 @@ Identify the form of the noun-adjective phrase tempore certo, and explain why it
 C. Translation
 Please translate the passgae into idiomatic English.
 
-When Hercules had come to King Dexamenus and he had violated his daughter Deianira, he wanted to marry her. When Hercules had gone away, the centaur Eurytion sought Deianira as a wife. Since her father was afraid of the centaurs, he promised  
+When Hercules had come to King Dexamenus and he had violated his daughter Deianira, he wanted to marry her. When Hercules had gone away, the centaur Eurytion sought Deianira as a wife. Since her father was afraid of the centaurs, he promised to give her to him. 

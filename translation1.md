@@ -21,7 +21,7 @@ Italicize the verb of each clause by surrounding it with asterisks.
 
 >Cum Hercules *abesset*,
 
-centaurus Eurytion petit eianiram uxorem.
+centaurus Eurytion *petit* eianiram uxorem.
 
 >Quia pater eius centaurum *timebat*, 
 
@@ -41,13 +41,18 @@ Deianiram *abduxit*.
 
 B. Grammatical questions
 Write a dictionary entry (nominative singular, genitive singular, gender) for Dexamenum, then identify the form Dexamenum. - Dexamenus, Dexameni, masculine - Accusative singular
+
 Write a dictionary entry (nominative singular, genitive singular, gender) for Deianiram, then identify the form Deianiram. - Deianira, Deianirae, feminine - Accusative singular
-Identify the form abesset, and explain why it is this tense and mood. - 
-Identify the form uenisset, and explain why it is this tense and mood. - 
-Identify the form pollicitus est. What dictionary form would you look under to find this verb? - 
+
+Identify the form abesset, and explain why it is this tense and mood. - 3rd singular imperfect  active subjunctive - It's imperfect because it is referring to an ongoing event in the past and it's subjunctive because 
+
+Identify the form uenisset, and explain why it is this tense and mood. - 3rd singular pluperfect  active subjunctive - It's pluperfect because it's about an action that happened before something in the past and it's subjunctive because 
+
+Identify the form pollicitus est. What dictionary form would you look under to find this verb? - It is a 3rd singular, perfect passive indicative verb and would be found as a deponent verb.
+
 Identify the form of the noun-adjective phrase tempore certo, and explain why it is in this case. - 
 
 C. Translation
 Please translate the passgae into idiomatic English.
 
-When Hercules had come to King Dexamenus and he 
+When Hercules had come to King Dexamenus and he had violated his daughter Deianira, he wanted to marry her. When Hercules had gone away, the centaur Eurytion sought Deianira as a wife. Since her father was afraid of the centaurs, he promised  

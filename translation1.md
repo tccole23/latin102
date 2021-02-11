@@ -13,29 +13,31 @@ A. Grammatical analysis
 Place each clause on a separate line, indented to show its level of subordination. 
 Italicize the verb of each clause by surrounding it with asterisks. 
 
->Hercules cum in hospitium ad Dexamenum regem uenisset eiusque filiam Deianiram deuirginasset,
+>Hercules cum in hospitium ad Dexamenum regem *uenisset* 
 
-volebat eam uxorem ducere.
+>eiusque filiam Deianiram *deuirginasset*,
 
->Cum Hercules abesset,
+*volebat* eam uxorem ducere.
+
+>Cum Hercules *abesset*,
 
 centaurus Eurytion petit eianiram uxorem.
 
->Quia pater eius centaurum timebat, 
+>Quia pater eius centaurum *timebat*, 
 
-pollicitus est 
+*pollicitus est* 
 
 >se daturum.
 
 >Tempore certo, 
 
-venit centaurus 
+*venit* centaurus 
 
 >cum fratribus ad nuptias. 
 
-Hercules interuenit et centaurum interfecti, 
+Hercules *interuenit* et centaurum *interfecti*, 
 
-Deianiram abduxit. 
+Deianiram *abduxit*. 
 
 B. Grammatical questions
 Write a dictionary entry (nominative singular, genitive singular, gender) for Dexamenum, then identify the form Dexamenum. - Dexamenus, Dexameni, masculine - Accusative singular

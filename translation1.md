@@ -17,9 +17,11 @@ Italicize the verb of each clause by surrounding it with asterisks.
 
 volebat eam uxorem ducere.
 
+
 >Cum Hercules abesset,
 
 centaurus Eurytion petit eianiram uxorem.
+
 
 >Quia pater eius centaurum timebat, 
 
@@ -27,11 +29,13 @@ pollicitus est
 
 >se daturum.
 
+
 >Tempore certo, 
 
 venit centaurus 
 
 >cum fratribus ad nuptias. 
+
 
 Hercules interuenit et centaurum interfecti, 
 

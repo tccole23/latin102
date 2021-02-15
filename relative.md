@@ -21,3 +21,20 @@ He killed the Centaur Eurytion because he wanted to marry Deianira,
 He killed Eurytion, 
 
 >whose daughter he had asked to marry.
+
+
+Hercules in Aegypto *Busiridem*, 
+
+>*qui* hospites interficiebat, 
+
+necavit.
+
+Hercules *Licham*
+
+>*qui* uestem attulerat in mare iecit.
+
+*Eurytum* 
+
+>*cuius* filiam eius in coniugium petiuit
+
+occidit.

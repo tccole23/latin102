@@ -1,3 +1,6 @@
+**Needs revisions**
+**Excellent translation: nicely idiomatic English!**
+
 Passage to analyze
 (Based on Hyginus, chapter 33.)
 
@@ -29,11 +32,11 @@ centaurus Eurytion *petit* eianiram uxorem.
 
 >se daturum.
 
->Tempore certo, 
+>Tempore certo, ❌
 
 *venit* centaurus 
 
->cum fratribus ad nuptias. 
+>cum fratribus ad nuptias.  ❌
 
 Hercules *interuenit* 
 
@@ -46,17 +49,17 @@ Write a dictionary entry (nominative singular, genitive singular, gender) for De
 
 Write a dictionary entry (nominative singular, genitive singular, gender) for Deianiram, then identify the form Deianiram. - Deianira, Deianirae, feminine - Accusative singular
 
-Identify the form abesset, and explain why it is this tense and mood. - 3rd singular imperfect  active subjunctive - It's imperfect because it is referring to an ongoing event in the past and it's subjunctive because it is a temporal clause.
+Identify the form abesset, and explain why it is this tense and mood. - 3rd singular imperfect  active subjunctive - It's imperfect because it is referring to an ongoing event in the past and it's subjunctive because it is a temporal clause. ❌
 
-Identify the form uenisset, and explain why it is this tense and mood. - 3rd singular pluperfect  active subjunctive - It's pluperfect because it's about an action that happened before something in the past and it's subjunctive because it is being used in a temporal clause.
+Identify the form uenisset, and explain why it is this tense and mood. - 3rd singular pluperfect  active subjunctive - It's pluperfect because it's about an action that happened before something in the past and it's subjunctive because it is being used in a temporal clause. ❌
 
-Identify the form pollicitus est. What dictionary form would you look under to find this verb? - It is a 3rd singular, perfect passive indicative verb and would be found as a deponent verb.
+Identify the form pollicitus est. What dictionary form would you look under to find this verb? - It is a 3rd singular, perfect passive indicative verb and would be found as a deponent verb. ❌ *What dictionary form would you look under?*
 
-Identify the form of the noun-adjective phrase tempore certo, and explain why it is in this case. - Ablative singular
+Identify the form of the noun-adjective phrase tempore certo, and explain why it is in this case. - Ablative singular  ❌ *explain why it is in this case.*
 
 C. Translation
 Please translate the passgae into idiomatic English.
 
-When Hercules had come to King Dexamenus and he had violated his daughter Deianira, he wanted to marry her. When Hercules had gone away, the centaur Eurytion sought Deianira as a wife. Since her father was afraid of the centaurs, he promised to give her to him. 
+When Hercules had come to King Dexamenus and he had violated his daughter Deianira, he wanted to marry her. When Hercules had gone away, the centaur Eurytion sought Deianira as a wife. Since her father was afraid of the centaurs❌, he promised to give her to him. 
 
 At the settled time, the centaur came to the wedding with his brothers. Hercules interrupted and killed the centaur, he led Deianira away. 

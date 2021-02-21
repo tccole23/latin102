@@ -1,5 +1,3 @@
-Your composition should use all the vocabulary items listed below at least once.
-
 Your first sentence should use a temporal clause to express that when Hercules came to Oechalia, he asked to marry Iole.
 
 Your second sentence should state that when her father Eurytus was unwilling, Hercules captured Oechalia.
@@ -10,4 +8,4 @@ Your fourth sentence should say that Iole endured that her parents were killed.
 
 Your fifth statement should say that when he had killed all of them, he sent Iole to Deianira.
 
-Cum Hercules veniisset Oechalia
+Cum Hercules Oechalia veniisset,  petivit

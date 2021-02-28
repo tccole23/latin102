@@ -37,7 +37,7 @@ perfect active infinitive - posuisse
 
 third plural pluperfect subjunctive active - posuissent
 
-Using the verb polliceor, complete the following synopsis, and translate indicative forms as complete sentences.
+Using the verb polliceor(2nd conjugation), complete the following synopsis, and translate indicative forms as complete sentences.
 
 third plural present indicative passive - 
 

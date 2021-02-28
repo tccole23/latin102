@@ -1,39 +1,59 @@
 Verb synopses
 Check one verb of the first or second conjugation *other than8 amo or habeo, and one verb of the third or third-io conjugation other than capio or duco. For each verb, complete the following synopsis, and translate indicative forms as complete sentences.
 
-third plural present indicative active
+First Conjugation - Do, dare, dedi, datus - to give:
 
-third plural present subjunctive active
+third plural present indicative active - dant - They give. 
 
-third plural imperfect indicative active
+third plural present subjunctive active - dent
 
-present infinitive active
+third plural imperfect indicative active - dabant - They were giving.
 
-third plural imperfect subjunctive active
+present infinitive active - dare
 
-third plural perfect indicative active
+third plural imperfect subjunctive active - darent
 
-perfect active infinitive
+third plural perfect indicative active - dederunt - They gave.
 
-third plural pluperfect subjunctive active
+perfect active infinitive - dedisse
+
+third plural pluperfect subjunctive active - dedissent
+
+Third Conjugation - Pono, ponere, posui, positus - to place:
+
+third plural present indicative active - ponunt - They place.
+
+third plural present subjunctive active - ponant
+
+third plural imperfect indicative active - ponebant - They were placing.
+
+present infinitive active - ponere 
+
+third plural imperfect subjunctive active - ponerent
+
+third plural perfect indicative active - posuerunt - They placed.
+
+perfect active infinitive - posuisse
+
+third plural pluperfect subjunctive active - posuissent
 
 Using the verb polliceor, complete the following synopsis, and translate indicative forms as complete sentences.
 
-third plural present indicative passive
+third plural present indicative passive - 
 
-third plural present subjunctive passive
+third plural present subjunctive passive - 
 
-third plural imperfect indicative passive
+third plural imperfect indicative passive - 
 
-present infinitive passive
+present infinitive passive -
 
-third plural imperfect subjunctive passive
+third plural imperfect subjunctive passive - 
 
-third plural perfect indicative passive
+third plural perfect indicative passive - 
 
-perfect active passive
+perfect active passive - 
 
-third plural pluperfect subjunctive passive
+third plural pluperfect subjunctive passive -
 
 Do a synopsis here… one 1st or 2nd, one 3rd or 3rdio
 

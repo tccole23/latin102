@@ -24,29 +24,43 @@ Do a synopsis here… one 1st or 2nd, one 3rd or 3rdio
 but not amo, habeo, capio or duco
 
 English relative clauses
-You are given a pair of simple English sentences (that is, a single independent clause) with a noun in common. Combine them into one complex sentence by keeping the first sentence as the independent clause, and making the second sentence a relative clause.
-
-Example: if you were given
-
-Hercules was ordered by Eurystheus to perform twelve labors. Eurystheus was the son of Sthenelus.
-
-you could make the second sentence a relative clause like this:
-
-Hercules was ordered by Eurystheus, who was the son of Sthenelus, to perform twelve labors.
 
 The brothers were violent Centaurs. Eurytion came to the wedding with his brothers.
-Dexamenus was afraid of Eurytion. Deanira was promised in marriage to Eurytion.
-Eurytion expected to marry Deianira. Eurytion’s brothers were centaurs.
-Nessus tried to rape Deianira. Hercules killed Nessus.
-Nessus gave Deianira a vial of blood. Hercules was poisoned by the blood.
-In Egypt, Hercules killed the priest Busiris. Busiris regularly sacrificed foreigners.
-Prometheus’ heart was devoured by an eagle. Hercules shot the eagle dead with his arrows.
-Lycus tried to kill Megara and her sons Therimachus and Ophites. Lycus was killed by Hercules.
-Hercules stole a tripod from the temple at Delphi. Apollo refused to give Hercules an oracle.
-Hercules killed his own wife Megara. Juno drove threw Hercules into a fit of madness.
-Latin relative clauses
-For each sentence in the previous section:
+>The brothers, with whom Eurytion came to the wedding, were violent Centaurs.
+>>quibus - it is masculine and plural because the antecedent is brothers and it is ablative because in order to have with it needs to be cum + ablative
 
-translate the relative pronoun into Latin
-identify the antecedent of the pronoun, and its gender and number
-identify the case of the Latin pronoun, and explain why it is in that case
+Dexamenus was afraid of Eurytion. Deanira was promised in marriage to Eurytion.
+> Dexamenus was afraid of Eurytion, to whom Deanira was promised in marriage. 
+>> cui - it is masculine and singular because the antecedent is Eurytion and it is dative because it's the indirect object
+
+Eurytion expected to marry Deianira. Eurytion’s brothers were centaurs.
+> Eurytion, whose brothers were centaurs, expected to marry Deianira. 
+>> cuius - it is masculine singular because the antecedent is Eurytion and it is genitive because it is showing possession 
+
+Nessus tried to rape Deianira. Hercules killed Nessus.
+> Nessus, who Hercules killed, tried to rape Deianira.
+>> quis - it is masculine singular because the antecedent is Nessus and it is nominative because it is the subject. 
+
+Nessus gave Deianira a vial of blood. Hercules was poisoned by the blood.
+> Nessus gave Deianira a vial of blood, 
+>>
+
+In Egypt, Hercules killed the priest Busiris. Busiris regularly sacrificed foreigners.
+>
+>>
+
+Prometheus’ heart was devoured by an eagle. Hercules shot the eagle dead with his arrows.
+>
+>>
+
+Lycus tried to kill Megara and her sons Therimachus and Ophites. Lycus was killed by Hercules.
+>
+>>
+
+Hercules stole a tripod from the temple at Delphi. Apollo refused to give Hercules an oracle.
+>
+>>
+
+Hercules killed his own wife Megara. Juno drove threw Hercules into a fit of madness.
+>
+>>

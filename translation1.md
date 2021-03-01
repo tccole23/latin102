@@ -51,7 +51,7 @@ Identify the form uenisset, and explain why it is this tense and mood. - 3rd sin
 
 Identify the form pollicitus est. What dictionary form would you look under to find this verb? - It is a 3rd singular, perfect passive indicative verb and would be found as a deponent verb. ❌ *What dictionary form would you look under?* - The dictionary form would be the first principle part which is polliceor. 
 
-Identify the form of the noun-adjective phrase tempore certo, and explain why it is in this case. - Ablative singular  ❌ *explain why it is in this case.* - It is in the ablative because it is describing the manner of the action. 
+Identify the form of the noun-adjective phrase tempore certo, and explain why it is in this case. - Ablative singular  ❌ *explain why it is in this case.* - It is in the ablative because it is being used to express time.
 
 C. Translation
 Please translate the passgae into idiomatic English.

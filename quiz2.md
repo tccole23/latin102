@@ -19,6 +19,8 @@ perfect active infinitive - dedisse
 
 third plural pluperfect subjunctive active - dedissent
 
+
+
 Third Conjugation - Pono, ponere, posui, positus - to place:
 
 third plural present indicative active - ponunt - They place.
@@ -39,7 +41,7 @@ third plural pluperfect subjunctive active - posuissent
 
 Using the verb polliceor, complete the following synopsis, and translate indicative forms as complete sentences.
 
-polliceor, pollicēri, -, pollicitus - to promise 2nd conjugation
+polliceor, pollicēri, -, pollicitus - to promise - 2nd conjugation
 
 third plural present indicative passive - pollicentur - They promise.
 

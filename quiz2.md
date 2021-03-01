@@ -37,23 +37,25 @@ perfect active infinitive - posuisse
 
 third plural pluperfect subjunctive active - posuissent
 
-Using the verb polliceor(2nd conjugation), complete the following synopsis, and translate indicative forms as complete sentences.
+Using the verb polliceor, complete the following synopsis, and translate indicative forms as complete sentences.
 
-third plural present indicative passive - 
+polliceor, pollicēri, -, pollicitus - to promise 2nd conjugation
 
-third plural present subjunctive passive - 
+third plural present indicative passive - pollicentur - They promise.
 
-third plural imperfect indicative passive - 
+third plural present subjunctive passive - polliceantur
 
-present infinitive passive -
+third plural imperfect indicative passive - pollicebantur - They were promising.
 
-third plural imperfect subjunctive passive - 
+present infinitive passive - polliceri
 
-third plural perfect indicative passive - 
+third plural imperfect subjunctive passive - pollicerentur
 
-perfect active passive - 
+third plural perfect indicative passive - polliciti sunt - They promised.
 
-third plural pluperfect subjunctive passive -
+perfect active passive (meant to be infinitive passive?) - polliciti essent
+
+third plural pluperfect subjunctive passive - polliciti essent
 
 Do a synopsis here… one 1st or 2nd, one 3rd or 3rdio
 

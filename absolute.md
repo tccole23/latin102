@@ -48,12 +48,34 @@ aquila interfecta Prometheus post ⅩⅩⅩ annos de monte Caucaso est solutus
 >aquila interfecta
 Prometheus post XXX annos de monte Caucaso est solutus
 
+Agrees with eagle and is perfect passive
 
+Because the eagle was killed...
+Causation
 
 68pr.1 Eteocles and Polynices, two sons of Oedipus, each claimed the throne of Thebes after the death of their father. Polynices led a force of seven generals to attack Thebes where Eteocles was in power.
 
 Polynices Adrasto rege adiuuante cum septem ductoribus Thebas uenit
 
+Polynices
+>Adrasto rege adiuuante
+cum setpem ductoribus Thebas venit
+
+It agrees with Adrasto and is present active
+
+Because King Adastro was aiding...
+Causation
+
 3pr The story of the Golden Fleece gets off to a weird start even by mythological standards. Phrixus was instructed to ride a golden ram to the land of Colchis, and sacrifice it to Mars. At the temple of Mars, the golden skin was guarded by a dragon. Jason and the Argonauts later sailed to Colchis to bring the Golden Fleece back.
 
 Phrixus arietem immolauit pellemque eius inauratam in templo Martis posuit quam seruante dracone Iason Aesonis et Alcimedis filius dicitur petisse.
+
+Phrixus arietem immolauit pellemque eius inauratam in templo Martis posuit 
+>quam 
+>>seruante dracone 
+>Iason Aesonis et Alcimedis filius dicitur petisse.
+
+Agrees with dragon and is present active
+
+
+

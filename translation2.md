@@ -79,7 +79,9 @@ As I lay dying - Interficienti
 
 Translation:
 
-Deianira, the wife of Hercules, could not cross a great river, which was called Evenus, and asked the centaur Nessus, who was the son of Ixiunis and Nubis, for help.  
+Deianira, the wife of Hercules, could not cross a great river, which was called Evenus, and asked the centaur Nessus, who was the son of Ixiunis and Nubis, for help. After she was lifted from the river, he wanted to rape her. When Hercules came there, Deianira begged for his help, and he peirced Nessum with his arrows. 
+
+As he was dying, he knew that the arrows were soaked in the Hydra Lernaeae's venom and held its power, so he took out his blood and gave it to Deianira and said it was a love potion. 
 
 
 

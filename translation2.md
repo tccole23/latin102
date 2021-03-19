@@ -3,19 +3,15 @@ Passage to analyze
 
 Highlighting like this indicates words or phrases referred to in the following grammatical questions.
 
-Deianira, 
-
->uxor Herculis, 
-
->flumen magnum, 
+Deianira, uxor Herculis, flumen magnum, 
 
 >>cui nomen Evenus *erat*, 
 
->>non *poterat* transire, 
+non *poterat* transire, 
 
 et centaurum Nessum, 
 
->>qui filius Ixionis et Nubis *erat*, 
+>qui filius Ixionis et Nubis *erat*, 
 
 auxilium *rogavit*. 
 
@@ -25,7 +21,9 @@ Hic
 
 in flumine ipso uiolare *uoluit*. 
 
-huc Hercules cum *interuenisset*
+huc Hercules 
+
+>cum *interuenisset*
 
 >et Deianira cum fidem eius *implorasset*, 
 
@@ -37,7 +35,11 @@ ille
 
 >cum *sciret* 
 
->>sagittas Hydrae Lernaeae felle tinctas magnam vim habere, 
+>>sagittas 
+
+>>>Hydrae Lernaeae felle tinctas 
+
+>>magnam vim habere, 
 
 sanguinem suum 
 
@@ -59,7 +61,7 @@ Identify the form of transire. Explain why you placed it in the clause you chose
 
 sublatam is from a verb that is a compound of sub plus a verb you should know very well. 
 Identify the form of this participle (which for participles means: gender, case, number, tense voice). - singular, perfect passive, feminine, accusative
-Find the dictionary entry for this word in thed Lewis-Short’s Latin Dictionary, and give its URN here. - website won't load (repeatedly)
+Find the dictionary entry for this word in thed Lewis-Short’s Latin Dictionary, and give its URN here. - urn:cite2:hmt:ls.markdown:n45939
 
 Identify the form of sagittis. Why does Hyginus use this case? - dative - because it's describing who is being peirced by them (the arrows)
 

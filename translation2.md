@@ -1,3 +1,5 @@
+**Needs revisions**
+
 Passage to analyze
 (From Hyginus, chapter 34.)
 
@@ -61,13 +63,13 @@ Identify the form of transire. Explain why you placed it in the clause you chose
 
 sublatam is from a verb that is a compound of sub plus a verb you should know very well. 
 Identify the form of this participle (which for participles means: gender, case, number, tense voice). - singular, perfect passive, feminine, accusative
-Find the dictionary entry for this word in thed Lewis-Short’s Latin Dictionary, and give its URN here. - urn:cite2:hmt:ls.markdown:n45939
+Find the dictionary entry for this word in thed Lewis-Short’s Latin Dictionary, and give its URN here. - urn:cite2:hmt:ls.markdown:n45939❌
 
-Identify the form of sagittis. Why does Hyginus use this case? - dative - because it's describing who is being peirced by them (the arrows)
+Identify the form of sagittis. Why does Hyginus use this case? - dative - ❌ because it's describing who is being peirced by them (the arrows)
 
 Identify the form of moriens. - singular, present active, masculine, nominative
 
-Identify felle. Why does Hyginus use this case? - ablative - because it's describing what is happening
+Identify felle. Why does Hyginus use this case? - ablative - because it's describing what is happening❌
 
 Identify the form of tinctas. - plural, perfect passive, feminine, accusative
 
@@ -77,11 +79,11 @@ William Faulkner’s novel As I lay dying takes its title from an English transl
 In Greek, where participles function very differently from English but similarly to Latin, that word is a present active participle. 
 Suggest one or more possible translations of Faulkner’s title into Latin.
 
-As I lay dying - Interficienti
+As I lay dying - Interficienti ❌
 
 Translation:
 
-Deianira, the wife of Hercules, could not cross a great river, which was called Evenus, and asked the centaur Nessus, who was the son of Ixiunis and Nubis, for help. After she was lifted from the river, he wanted to rape her. When Hercules came there, Deianira begged for his help, and he peirced Nessum with his arrows. 
+Deianira, the wife of Hercules, could not cross a great river, which was called Evenus, and asked the centaur Nessus, who was the son of Ixiunis and Nubis, for help. After she was lifted from the river, he wanted to rape her. When Hercules came there, Deianira begged for his help, and he peirced Nessum❌ with his arrows. 
 
 As he was dying, he knew that the arrows were soaked in the Hydra Lernaeae's venom and held its power, so he took out his blood and gave it to Deianira and said it was a love potion. 
 

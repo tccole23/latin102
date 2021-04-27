@@ -1,3 +1,5 @@
+**Needs revisions**
+
 Dictionary skills, 1: noun-adjective pairs
 For each word in the following phrases, list the forms the dictionary entry gives you for the word:
 
@@ -37,7 +39,7 @@ afflabat - afflo, afflare, afflavi, afflatus
 
 moriebatur - morior, mori, ––, mortuus
 
-exinteravit - exintero, exintrare, exinavi, exinatum 
+exinteravit - exintero, exintrare, exinavi, exinatum  ❌ **Careful with spelling of stem.**
 
 effugiebat - effugio, effugere, effugi, effugitus
 
@@ -61,25 +63,25 @@ Luna (nominative) - Luna, Lunae (feminine)
 
 Minerva (nominative) - Minerva, Minervae (feminine)
 
-in Phrygia - Phrygium, Phrygii (neuter)
+in Phrygia - Phrygium, Phrygii (neuter)❌
 
 ex Creta - Creta, Cretae (feminine)
 
-Thraciae rex - Thracus, Thraci (masculine)
+Thraciae rex - Thracus, Thraci (masculine)❌
 
 cum Abdero - Abderus, Abderi (masculine)
 
-Eurystheo regi - Eurysthe, Eurysthi (masculine)
+Eurystheo regi - Eurysthe, Eurysthi (masculine)❌
 
 Compose a dictionary form for the proper adjectives in the following phrases:
 
-Leonem Nemeum - Nemer, Nemea, Nemeus 
+Leonem Nemeum - Nemer, Nemea, Nemeus  ❌
 
-Hydram Lernaeam - Lernaer, Lernaea, Lernaeus
+Hydram Lernaeam - Lernaer, Lernaea, Lernaeus❌
 
 aprum Erymanthium - Erymanthius, Erymanthia, Erymanthium
 
-aves Stymphalides - Stymphalidis, Stymphalide
+aves Stymphalides - Stymphalidis, Stymphalide ❌
 
 Hippolyten Amazonam (NB: Hippolyten is a Greek name in a feminine accusative singular form, like Iolen in our earlier assignment.) - Amazonus, Amazona, Amazonum
 
@@ -95,7 +97,8 @@ a third-declension noun:
 pars, partis (f.) “part”
 and the adjective magnus/a/um, “great, large,” with irregular comparative maior, and superlative maximus.
 
-The Hydra killed passers by with a great blowing of his poisonous breath. - cum afflatu magno
+❌**In the next three, your adjective and noun forms are right, but we don't need a preposition to express instrument or means in Latin.**
+The Hydra killed passers by with a great blowing of his poisonous breath. - cum afflatu magno 
 
 The Hydra killed passers by with a greater blowing of his poisonous breath. - cum afflatu maiore
 

@@ -39,7 +39,7 @@ afflabat - afflo, afflare, afflavi, afflatus
 
 moriebatur - morior, mori, ––, mortuus
 
-exinteravit - exintero, exintrare, exinavi, exinatum  ❌ **Careful with spelling of stem.**
+exinteravit - exintero, exenare, exenavi, exenatum  ❌ **Careful with spelling of stem.** (corrected)
 
 effugiebat - effugio, effugere, effugi, effugitus
 

@@ -63,9 +63,9 @@ Identify the form of transire. Explain why you placed it in the clause you chose
 
 sublatam is from a verb that is a compound of sub plus a verb you should know very well. 
 Identify the form of this participle (which for participles means: gender, case, number, tense voice). - singular, perfect passive, feminine, accusative
-Find the dictionary entry for this word in the Lewis-Short’s Latin Dictionary, and give its URN here. - urn:cite2:hmt:ls.markdown:n45939❌
+Find the dictionary entry for this word in the Lewis-Short’s Latin Dictionary, and give its URN here. - urn:cite2:hmt:ls.markdown:n45939❌ (correction -urn:cite2:hmt:ls.markdown:n48489 )
 
-Identify the form of sagittis. Why does Hyginus use this case? - dative (correciton - ablative) - ❌ (because it's describing the means of the action - correction) because it's describing who is being peirced by them (the arrows)
+Identify the form of sagittis. Why does Hyginus use this case? - dative (correciton - ablative) - ❌ (correction - because it's describing the means of the action) because it's describing who is being peirced by them (the arrows)
 
 Identify the form of moriens. - singular, present active, masculine, nominative
 

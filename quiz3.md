@@ -63,25 +63,25 @@ Luna (nominative) - Luna, Lunae (feminine)
 
 Minerva (nominative) - Minerva, Minervae (feminine)
 
-in Phrygia - Phrygium, Phrygii (neuter)❌
+in Phrygia - Phrygium, Phrygii (neuter)❌ (correction - Phrygia, Phrygiae (feminine))
 
 ex Creta - Creta, Cretae (feminine)
 
-Thraciae rex - Thracus, Thraci (masculine)❌
+Thraciae rex - Thracus, Thraci (masculine)❌ (correction - Thracia, Thraciae (feminine))
 
 cum Abdero - Abderus, Abderi (masculine)
 
-Eurystheo regi - Eurysthe, Eurysthi (masculine)❌
+Eurystheo regi - Eurysthe, Eurysthi (masculine)❌ (correction - Eurystheus, Eurysthei (masculine))
 
 Compose a dictionary form for the proper adjectives in the following phrases:
 
-Leonem Nemeum - Nemer, Nemea, Nemeus  ❌
+Leonem Nemeum - Nemer, Nemea, Nemeus  ❌ (correction - Nemeus, Nemea, Nemeum)
 
-Hydram Lernaeam - Lernaer, Lernaea, Lernaeus❌
+Hydram Lernaeam - Lernaer, Lernaea, Lernaeus❌ (correction - Lernaeus, Lernaea, Lernaeum)
 
 aprum Erymanthium - Erymanthius, Erymanthia, Erymanthium
 
-aves Stymphalides - Stymphalidis, Stymphalide ❌
+aves Stymphalides - Stymphalidis, Stymphalide ❌ (correction - Stymphalider, Stymphalidis, Stymphalide)
 
 Hippolyten Amazonam (NB: Hippolyten is a Greek name in a feminine accusative singular form, like Iolen in our earlier assignment.) - Amazonus, Amazona, Amazonum
 

@@ -69,7 +69,7 @@ Identify the form of sagittis. Why does Hyginus use this case? - dative (correci
 
 Identify the form of moriens. - singular, present active, masculine, nominative
 
-Identify felle. Why does Hyginus use this case? - ablative - because it's describing what is happening❌ (correction - be
+Identify felle. Why does Hyginus use this case? - ablative - because it's describing what is happening❌ (correction - because it's describing what the arrows were dipped in)
 
 Identify the form of tinctas. - plural, perfect passive, feminine, accusative
 

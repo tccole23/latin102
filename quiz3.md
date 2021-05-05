@@ -39,7 +39,7 @@ afflabat - afflo, afflare, afflavi, afflatus
 
 moriebatur - morior, mori, ––, mortuus
 
-exinteravit - exintero, exenare, exenavi, exenatum  ❌ **Careful with spelling of stem.** (corrected)
+exinteravit - exintero, exenare, exenavi, exenatum  ❌ **Careful with spelling of stem.** (corrected) exintero, exenterare, exenteravi, exenterum
 
 effugiebat - effugio, effugere, effugi, effugitus
 
@@ -81,7 +81,7 @@ Hydram Lernaeam - Lernaer, Lernaea, Lernaeus❌ (correction - Lernaeus, Lernaea,
 
 aprum Erymanthium - Erymanthius, Erymanthia, Erymanthium
 
-aves Stymphalides - Stymphalidis, Stymphalide ❌ (correction - Stymphalider, Stymphalidis, Stymphalide)
+aves Stymphalides - Stymphalidis, Stymphalide ❌ (correction - Stymphalider, Stymphalidis, Stymphalide) (Stymphalis, Stymphalidis)
 
 Hippolyten Amazonam (NB: Hippolyten is a Greek name in a feminine accusative singular form, like Iolen in our earlier assignment.) - Amazonus, Amazona, Amazonum
 
@@ -98,11 +98,11 @@ pars, partis (f.) “part”
 and the adjective magnus/a/um, “great, large,” with irregular comparative maior, and superlative maximus.
 
 ❌**In the next three, your adjective and noun forms are right, but we don't need a preposition to express instrument or means in Latin.**
-The Hydra killed passers by with a great blowing of his poisonous breath. - cum afflatu magno 
+The Hydra killed passers by with a great blowing of his poisonous breath. -  afflatu magno 
 
-The Hydra killed passers by with a greater blowing of his poisonous breath. - cum afflatu maiore
+The Hydra killed passers by with a greater blowing of his poisonous breath. - afflatu maiore
 
-The Hydra killed passers by with the greatest blowing of his poisonous breath. - cum afflatu maximo
+The Hydra killed passers by with the greatest blowing of his poisonous breath. - afflatu maximo
 
 The victims died in great torment. - in cruciatu magno
 

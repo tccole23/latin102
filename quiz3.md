@@ -20,7 +20,7 @@ tantam vim - tantus, tanta, tantum and vis, vis (feminine)
 
 sagittas suas - sagitta, sagittae (feminine) and suus, sua, suum
 
-cornibus aureis - cornus, corni (feminine) and aureus, aurea, aureum
+cornibus aureis - cornus, corni (feminine) and aureus, aurea, aureum (cornu, cornus (neuter))
 
 carne humana - caro, carnis (feminine) and humanus, humana, humanum
 

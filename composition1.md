@@ -5,4 +5,4 @@ Cum Hercules Oechalia venisset, petivit Iolen in coniugium ducere. Cum patris❌
 
 Corrected Version: 
 
-Cum Hercules Oechalia venisset, petivit Iolen in coniugium ducere. Cum patri Iole nollet, Hercules Oechaliam cepit. Hercules dixit eius parentes interfectus esse. Iolen passus est (passus esse - ??) eam parentes interfecit (?). Cum Hercules eos omnes interfecit, is Iolen Deianira misit.
+Cum Hercules Oechalia venisset, petivit Iolen in coniugium ducere. Cum patri Iole nollet, Hercules Oechaliam cepit. Hercules dixit eius parentes interfectus esse. Iolen passa est eam parentes interfectos esse. Cum Hercules eos omnes interfecit, is Iolen Deianira misit.

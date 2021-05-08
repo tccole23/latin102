@@ -1,3 +1,5 @@
+**Needs 1 minor revision**
+
 Passage to analyze
 Hyginus, chapter 30, sections 7-9.
 
@@ -19,9 +21,9 @@ maiorem partem
 
  totum stercus *abluit*. 
  
- taurum cum 
+ taurum  
 
->quo Pasiphae *concubuit* 
+>cum quo Pasiphae *concubuit* 
 
 ex Creta insula Mycenis vivum *adduxit*.
 
@@ -41,7 +43,7 @@ In the phrase, Iove adiutore, what case is Iove? What kind of construction is th
 
 What case is stercus, and why is it in that case? - It is accusative and it is accusative because it goes with purgavit which can take two accusative direct objects.
 
-Identify the form of the adjective maiorem (gender, case, number, degree). - feminine, accusative, singular, superlative
+Identify the form of the adjective maiorem (gender, case, number, degree). - feminine, accusative, singular, superlative❌ **Superlative would be from *maximus/a/um*.**
 
 Explain the construction of the verbal unit flumine admisso. - The construction of *flumine admisso* is of an ablative absolute 
 

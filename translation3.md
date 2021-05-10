@@ -43,7 +43,7 @@ In the phrase, Iove adiutore, what case is Iove? What kind of construction is th
 
 What case is stercus, and why is it in that case? - It is accusative and it is accusative because it goes with purgavit which can take two accusative direct objects.
 
-Identify the form of the adjective maiorem (gender, case, number, degree). - feminine, accusative, singular, superlative❌ **Superlative would be from *maximus/a/um*.**
+Identify the form of the adjective maiorem (gender, case, number, degree). - feminine, accusative, singular, superlative❌ **Superlative would be from *maximus/a/um*.** (correction - comparative)
 
 Explain the construction of the verbal unit flumine admisso. - The construction of *flumine admisso* is of an ablative absolute 
 

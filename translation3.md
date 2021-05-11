@@ -1,4 +1,4 @@
-**Needs 1 minor revision**
+**Full credit**
 
 Passage to analyze
 Hyginus, chapter 30, sections 7-9.
